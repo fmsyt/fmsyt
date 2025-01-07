@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there, I'm fmsyt! 👋
 
-<!--
-**fmsyt/fmsyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Programming is a hobby for me, and I enjoy creating what I want rather than providing something specific.
 
-Here are some ideas to get you started:
+- 💼 **Work**: Developing internal attendance and project management systems, working directly with field staff.
+- 🌐 **Main Language**: Primarily using PHP at work.
+- 🛠️ **Personal Projects**: Mainly working with TypeScript-React.
+- 📚 **Learning**: Studying Rust due to the emergence of Tauri, which allows web views to be used across a wide range of platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools
+### Languages
+- PHP
+- Typescript
+- Rust
+- C# (experience)
+- Java (experience)
+- C (past experience)
+- C++ (past experience)
+
+### Frameworks and Libraries
+- React
+- Tauri
+
+### Tools
+- Git
+- Docker
+
+## Contact
+Feel free to reach out to me via:
+
+- [Email](mailto:motsuni@yotta-rc.dev)
+
+## GitHub Stats
+![fmsyt's GitHub stats](https://github-readme-stats.vercel.app/api?username=fmsyt&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fmsyt&layout=compact&theme=radical)
+
+[日本語はこちら](./README_JA.md)
+
+Thanks for visiting my profile!
