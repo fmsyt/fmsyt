@@ -11,7 +11,7 @@ Programming is a hobby for me, and I enjoy creating what I want rather than prov
 ## Languages and Tools
 ### Languages
 - PHP
-- Typescript
+- TypeScript
 - Rust
 - C# (experience)
 - Java (experience)
